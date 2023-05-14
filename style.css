@@ -329,3 +329,44 @@
 .cottage__link:hover {
   background-color:#1d1d1d;
 }
+.info {
+  color: white;
+}
+.info__wrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color:#1d1d1d;
+}
+.info__item {
+  display: flex;
+  flex-direction: column;
+}
+.managers__wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.info__title {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 48px;
+
+  text-align: center;
+}
+.info__blog {
+
+}
+.info__comments {
+
+}
+.info__blog__item-link {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+
+  color: #FFFFFF;
+}
