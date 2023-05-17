@@ -1,2 +1,2 @@
 # to2rent
-https://markiz-karabas.github.io/rsschool-cv/
+https://markiz-karabas.github.io/rent4you/
